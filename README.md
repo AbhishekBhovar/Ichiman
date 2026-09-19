@@ -1,12 +1,5 @@
-# ICHIMAN 1.4
-Visual reset build.
+# ICHIMAN 1.5 — production visual rebuild
 
-- Training opens by default and is the primary app.
-- Compact 3–4 technique viewport on iPhone.
-- Smaller controls, quieter belt rack and bamboo progress.
-- Dojo is an optional, nearly UI-free atmosphere screen.
-- Grove is visual only; no technique-card database.
-- Settings and backup remain behind the menu.
-- Existing localStorage state key remains `ichimanState`.
+Training remains the default and fastest path. This build replaces the chopped source technique art for the first six White Belt strikes with purpose-cropped production artwork from the locked visual direction, removes card-like UI, tightens the belt rack and controls, and preserves the existing ICHIMAN localStorage data model and backup/import behavior.
 
 Upload the contents of this folder to the GitHub Pages repository root.
