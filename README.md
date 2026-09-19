@@ -1,11 +1,10 @@
-# ICHIMAN 0.2
-Visual rebuild for iPhone. Upload all files/folders in this directory to the repository root.
+# ICHIMAN 1.2
+Full test build.
 
-Changes from 0.1:
-- Removed concept-board background entirely from Training.
-- Home is a single illustrated dojo scene.
-- Compact, scrollable technique rows.
-- Real image technique art; no gi emoji or bamboo text glyphs.
-- Organic four-stage bamboo progress indicator.
-- Muted physical belt rack.
-- Persistent lifetime counters, +10/+100/custom, undo, long-press history/edit.
+- Courtyard/gate artwork is used only as the brief loading/entrance screen.
+- Main Dojo/Home uses the interior dojo artwork.
+- Basic flow retained: Dojo → Training → belt/category → reps, plus Grove and Settings/backup.
+- No streaks, daily goals, locked future belts, kata counters, or stats dashboard.
+- Progress persists locally in the browser.
+
+Upload the contents of this folder to the root of the GitHub Pages repository.
