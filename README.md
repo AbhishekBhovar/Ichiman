@@ -1,6 +1,11 @@
-# ICHIMAN 0.1
-Proof-of-concept build. Open index.html or upload the folder contents to a static host such as GitHub Pages.
+# ICHIMAN 0.2
+Visual rebuild for iPhone. Upload all files/folders in this directory to the repository root.
 
-Implemented: Dojo home, White Belt training proof, persistent Chudan Tsuki counter, +10/+100/custom, undo, completion state, quiet belt rack.
-
-Note: artwork is a proof asset extracted from the approved visual direction; the next production pass should replace it with individually generated transparent/background assets rather than CSS drawings.
+Changes from 0.1:
+- Removed concept-board background entirely from Training.
+- Home is a single illustrated dojo scene.
+- Compact, scrollable technique rows.
+- Real image technique art; no gi emoji or bamboo text glyphs.
+- Organic four-stage bamboo progress indicator.
+- Muted physical belt rack.
+- Persistent lifetime counters, +10/+100/custom, undo, long-press history/edit.
