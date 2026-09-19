@@ -1,10 +1,10 @@
-# ICHIMAN 1.2
-Full test build.
+# ICHIMAN 1.3
+Minimal-use rebuild.
 
-- Courtyard/gate artwork is used only as the brief loading/entrance screen.
-- Main Dojo/Home uses the interior dojo artwork.
-- Basic flow retained: Dojo → Training → belt/category → reps, plus Grove and Settings/backup.
-- No streaks, daily goals, locked future belts, kata counters, or stats dashboard.
-- Progress persists locally in the browser.
-
-Upload the contents of this folder to the root of the GitHub Pages repository.
+- Training is the default screen.
+- Entrance artwork is only a brief first-load transition.
+- Dojo is a quiet optional destination, not a navigation hub.
+- Grove is a single visual bamboo garden; the redundant technique-card list is removed.
+- Settings and backup stay behind the menu.
+- No bottom navigation, streaks, dashboards, daily goals, or extra progression screens.
+- Existing localStorage key (`ichimanState`) is preserved, so progress from prior builds carries forward in the same browser/site.
