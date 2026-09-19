@@ -1,10 +1,12 @@
-# ICHIMAN 1.3
-Minimal-use rebuild.
+# ICHIMAN 1.4
+Visual reset build.
 
-- Training is the default screen.
-- Entrance artwork is only a brief first-load transition.
-- Dojo is a quiet optional destination, not a navigation hub.
-- Grove is a single visual bamboo garden; the redundant technique-card list is removed.
-- Settings and backup stay behind the menu.
-- No bottom navigation, streaks, dashboards, daily goals, or extra progression screens.
-- Existing localStorage key (`ichimanState`) is preserved, so progress from prior builds carries forward in the same browser/site.
+- Training opens by default and is the primary app.
+- Compact 3–4 technique viewport on iPhone.
+- Smaller controls, quieter belt rack and bamboo progress.
+- Dojo is an optional, nearly UI-free atmosphere screen.
+- Grove is visual only; no technique-card database.
+- Settings and backup remain behind the menu.
+- Existing localStorage state key remains `ichimanState`.
+
+Upload the contents of this folder to the GitHub Pages repository root.

@@ -3,7 +3,7 @@ let S=JSON.parse(localStorage.getItem('ichimanState')||'null')||{belt:'white',ca
 const save=()=>localStorage.setItem('ichimanState',JSON.stringify(S)), q=s=>document.querySelector(s), qa=s=>[...document.querySelectorAll(s)];
 function screen(id){qa('.screen').forEach(x=>x.classList.remove('active'));q('#'+id).classList.add('active');closeDrawer();if(id==='training')render();if(id==='grove')renderGrove()}
 // Training is the default. Splash is only a brief entrance on a fresh browser session.
-if(!sessionStorage.getItem('ichimanEntered')){sessionStorage.setItem('ichimanEntered','1');screen('splash');setTimeout(()=>screen('training'),800)}else render();
+if(!sessionStorage.getItem('ichimanEntered')){sessionStorage.setItem('ichimanEntered','1');screen('splash');setTimeout(()=>screen('training'),450)}else render();
 qa('[data-training]').forEach(b=>b.onclick=()=>screen('training'));qa('[data-dojo]').forEach(b=>b.onclick=()=>screen('home'));
 qa('[data-menu]').forEach(b=>b.onclick=()=>{q('#drawer').classList.add('open');q('#veil').classList.add('open')});qa('[data-close]').forEach(b=>b.onclick=closeDrawer);function closeDrawer(){q('#drawer').classList.remove('open');q('#veil').classList.remove('open')}qa('[data-go]').forEach(b=>b.onclick=()=>screen(b.dataset.go));qa('[data-cat]').forEach(b=>b.onclick=()=>{S.cat=b.dataset.cat;save();render()});
 function stage(n){return Math.min(4,Math.floor((n||0)/2500))}function listForBelt(){return T.filter(t=>t.belt===S.belt&&t.category===S.cat)}
