@@ -1,12 +1,11 @@
-<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no"><meta name="theme-color" content="#20170f"><title>ICHIMAN 一万</title><link rel="stylesheet" href="style.css"></head><body>
-<section id="home" class="screen home"><button id="enter" aria-label="Enter dojo"></button></section>
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no"><meta name="theme-color" content="#17110c"><title>ICHIMAN 一万</title><link rel="stylesheet" href="style.css"></head><body>
+<section id="home" class="screen home"><div class="homeSign"><b>一万</b><span>ICHIMAN</span></div><blockquote>“I fear not the man who has practiced 10,000 kicks once,<br>but I fear the man who has practiced one kick 10,000 times.”<cite>— Bruce Lee</cite></blockquote><button id="enter">ENTER DOJO <span>→</span></button></section>
 <section id="train" class="screen train hidden">
-  <header class="top"><button id="homeBtn" class="menu">‹</button><div class="brand">ICHIMAN <span>一万</span></div><div class="grade">WHITE BELT</div></header>
-  <div class="tabs"><button class="active">STRIKES</button><button>BLOCKS</button><button>KICKS</button></div>
-  <main id="list"></main>
-  <footer class="rack" aria-label="Belt navigation"><button class="belt white active"></button><button class="belt yellow"></button><button class="belt orange"></button><button class="belt green"></button><button class="belt blue"></button><button class="belt red"></button><button class="belt brown"></button><button class="belt black"></button></footer>
+<header class="dojoHead"><button id="homeBtn" class="back">‹</button><div class="woodSign"><div>ICHIMAN</div><small>一万</small><span>WHITE BELT</span></div></header>
+<nav class="tabs"><button class="active">STRIKES</button><button>BLOCKS</button><button>KICKS</button></nav>
+<main id="list" class="parchment"></main>
+<footer class="rack" aria-label="Belt navigation"><button class="belt white active"></button><button class="belt yellow"></button><button class="belt orange"></button><button class="belt green"></button><button class="belt blue"></button><button class="belt red"></button><button class="belt brown"></button><button class="belt black"></button></footer>
 </section>
-<div id="modal" class="shade hidden"><div class="sheet"><button id="close" class="close">×</button><h2>ADD REPS</h2><div class="modalTech">Chudan Tsuki<small>Mid-level Punch</small></div><input id="num" type="number" inputmode="numeric" value="50"><div class="presets"><button>10</button><button>25</button><button>50</button><button>100</button></div><button id="addCustom" class="primary">ADD REPS</button></div></div>
+<div id="modal" class="shade hidden"><div class="sheet"><button id="close" class="close">×</button><h2>ADD REPS</h2><div class="modalTech">Chudan Tsuki<small>Mid-level Punch</small></div><input id="num" type="number" inputmode="numeric" value="50"><div class="presets"><button>10</button><button>25</button><button>50</button><button>100</button></div><button id="addCustom" class="primary">ADD</button></div></div>
 <div id="history" class="shade hidden"><div class="sheet history"><button id="historyClose" class="close">×</button><h2>Chudan Tsuki</h2><small>REP HISTORY</small><div id="historyRows"></div><button id="editTotal">EDIT TOTAL</button></div></div>
-<div id="toast" class="toast hidden"><span id="toastText">+100 added</span><button id="undo">UNDO</button></div>
-<script src="app.js"></script></body></html>
+<div id="toast" class="toast hidden"><span id="toastText">+100 added</span><button id="undo">UNDO</button></div><script src="app.js"></script></body></html>
