@@ -55,7 +55,7 @@ html,body{background:#f4ecd8;overscroll-behavior-y:none}.app{background:linear-g
 .splash{display:block;background:#120e0b;animation:splashAway .48s ease 3.25s forwards;overflow:hidden}
 .splash img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center center;display:block}
 .splash:before,.splash:after,.splash-inner{display:none!important}
-.loading-bar{position:absolute;z-index:3;left:50%;top:72.25%;width:min(218px,55vw);height:8px;transform:translate(-50%,-50%);border:1.5px solid rgba(224,190,121,.72);border-radius:999px;background:rgba(18,14,11,.58);box-shadow:0 2px 8px #0008,inset 0 0 0 1px rgba(255,238,197,.05);overflow:hidden;pointer-events:none}
+.loading-bar{position:absolute;z-index:3;left:50%;top:70.25%;width:min(190px,46vw);height:8px;transform:translate(-50%,-50%);border:1.5px solid rgba(224,190,121,.72);border-radius:999px;background:rgba(18,14,11,.58);box-shadow:0 2px 8px #0008,inset 0 0 0 1px rgba(255,238,197,.05);overflow:hidden;pointer-events:none}
 .loading-bar-fill{display:block;width:0;height:100%;border-radius:inherit;background:linear-gradient(90deg,#9f7740,#e0bc78 68%,#f3d99d);box-shadow:0 0 9px rgba(224,188,120,.35);animation:loadFill 2.6s cubic-bezier(.32,.04,.18,1) .22s forwards}
 @keyframes loadFill{from{width:0}to{width:100%}}
 /* electric energy overlay — code only */
@@ -66,7 +66,7 @@ html,body{background:#f4ecd8;overscroll-behavior-y:none}.app{background:linear-g
 @keyframes boltFlash{0%,17%,24%,100%{opacity:0}18%,20%{opacity:.95}21%,23%{opacity:.38}}
 @keyframes auraPulse{from{opacity:.12}to{opacity:.34}}
 @keyframes splashAway{to{opacity:0;visibility:hidden;pointer-events:none}}
-@media(max-height:760px){.loading-bar{top:72.25%;width:min(205px,55vw)}}
+@media(max-height:760px){.loading-bar{top:70.25%;width:min(184px,46vw)}}
 @media(prefers-reduced-motion:reduce){.energy{display:none!important}}
 </style></head><body><div class="splash" id="splash" aria-hidden="true"><img src="splash.png" alt=""><div class="energy" aria-hidden="true"><i class="bolt b1"></i><i class="bolt b2"></i><i class="bolt b3"></i><i class="bolt b4"></i></div><div class="loading-bar" aria-hidden="true"><span class="loading-bar-fill"></span></div></div><div class="app"><header class="top"><div class="brand"><div class="mark">10K</div><div class="title"><button class="belt-button" id="beltBtn"><b id="beltTitle">WHITE BELT</b><span>⌄</span></button></div><button class="gear" id="gear">⚙</button></div></header><nav class="tabs"><button class="on" data-cat="strikes">STRIKES</button><button data-cat="blocks">BLOCKS</button><button data-cat="kicks">KICKS</button></nav><div class="category"><strong id="catLabel">Closed-hand strikes</strong><div class="bamboo" id="bamboo"></div></div><main class="list" id="list"></main></div>
 <div class="belt-pop" id="beltPop"><div class="sheet"><div class="sheet-head"><h3>Select belt</h3><button class="close">×</button></div><div class="belts" id="belts"></div></div></div>
