@@ -1,0 +1,1 @@
+ICHIMAN v6 complete approved-art integration. Existing localStorage key ichimanState preserved. Existing technique IDs preserved; added gyaku, yoko-geri and mawashi-geri. Unillustrated advanced techniques retain category fallback. All uploaded originals copied byte-for-byte. Images 8-9 of 10 emblems retained for future milestone mapping. Not device-tested.

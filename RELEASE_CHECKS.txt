@@ -1,0 +1,7 @@
+ICHIMAN COMPLETE BUILD
+Verified: 32 approved artwork files present and SHA-256 matched to the previous manifest.
+Verified: technique, journey and emblem asset references resolve.
+Verified: ten milestone emblems are displayed and six journey backgrounds appear as large scenes.
+Verified: JavaScript syntax passes Node.js --check.
+NOT verified: interactive browser/device test. Browser navigation was blocked by the runtime administrator.
+NOT verified: actual iPhone Safari behavior; please test on device.

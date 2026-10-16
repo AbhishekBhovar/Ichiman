@@ -1,0 +1,152 @@
+{
+  "technique_mappings": {
+    "chudan": "art/techniques/chudan.jpeg",
+    "gyaku": "art/techniques/gyaku.jpeg",
+    "shita": "art/techniques/shita.jpeg",
+    "ura": "art/techniques/ura.jpeg",
+    "yoko-ura": "art/techniques/yoko-ura.png",
+    "shuto-uchi": "art/techniques/shuto-uchi.jpeg",
+    "hijiate": "art/techniques/hijiate.png",
+    "mawashi-empi": "art/techniques/mawashi-empi.jpeg",
+    "jodan-age": "art/techniques/jodan-age.jpeg",
+    "uchi-uke": "art/techniques/uchi-uke.jpeg",
+    "soto-uke": "art/techniques/soto-uke.jpeg",
+    "gedan-barai": "art/techniques/gedan-barai.jpeg",
+    "shuto-uke": "art/techniques/shuto-uke.jpeg",
+    "mae-geri": "art/techniques/mae-geri.jpeg",
+    "yoko-geri": "art/techniques/yoko-geri.jpeg",
+    "mawashi-geri": "art/techniques/mawashi-geri.jpeg",
+    "gedan-uke": "art/techniques/gedan-barai.jpeg"
+  },
+  "files": {
+    "art/techniques/chudan.jpeg": {
+      "source": "39AE2A8A-5291-4903-9BB3-DA89D5859BE4.jpeg",
+      "sha256": "6ea60ccc55c5abc0330313397dd5df64f12658d183d8bc8d22075caf2b35479c"
+    },
+    "art/techniques/gyaku.jpeg": {
+      "source": "43DCA819-D428-496D-A822-B0315CFBA9F9.jpeg",
+      "sha256": "7146fe77915393a58cc12625d6834e4470b65d3ea209f4b8a5c6fbdebb5b1e82"
+    },
+    "art/techniques/shita.jpeg": {
+      "source": "2C006D85-0E70-43A7-A872-95F7AA5ACF9F.jpeg",
+      "sha256": "16c0ee4221a433e620d36be9301df19548c02b972050361508b2caf00c8b2a72"
+    },
+    "art/techniques/ura.jpeg": {
+      "source": "7CD32916-D5B0-4EC1-BA60-DDE1E5503EE1.jpeg",
+      "sha256": "d32b011a24075cf93f0c6e12537e94e4c2c56a17a8ee5fca349242ffa43b85ac"
+    },
+    "art/techniques/yoko-ura.png": {
+      "source": "a_cinematic_ultra_detailed_photoreal_cgi_like_sc.png",
+      "sha256": "6e509129d216ad24f300962926067b1f4fbda9d4da9c950698bde7157ba1074e"
+    },
+    "art/techniques/shuto-uchi.jpeg": {
+      "source": "7D15C068-9AB1-41BF-B72C-7E5BF9309125.jpeg",
+      "sha256": "1926365aa233cb951918b4faf28c4e23b454544454bdf5aa34b4208955076038"
+    },
+    "art/techniques/hijiate.png": {
+      "source": "ICHIMAN_Hiji_Ate_Prototype_3_PRESERVED_4K(2).png",
+      "sha256": "636452fda5b539c143f162e2dd2d5bd8103bc1a4450b8d93ac29e9c97e6ba8d2"
+    },
+    "art/techniques/mawashi-empi.jpeg": {
+      "source": "89D7E37F-63B6-47C7-8FD2-ECDCDCB96CFB.jpeg",
+      "sha256": "040c8d5b641e316d326a02df02c2fbc6b4d052aa5b94a45bf0e106bb3fcf66c9"
+    },
+    "art/techniques/jodan-age.jpeg": {
+      "source": "BC298AB6-5775-42EA-AFEB-BF07911BEEC1.jpeg",
+      "sha256": "dcd55caea45a370a3ea9bef81c0a4d520b7bc8ecb8241f3d05bb385c8e886bdb"
+    },
+    "art/techniques/uchi-uke.jpeg": {
+      "source": "57282159-D833-4B90-9326-A45C6787D4F2.jpeg",
+      "sha256": "83045b0a73bfa05ed2c68085ee7c137b2502d623b2a5e6ee2560959a60ac8470"
+    },
+    "art/techniques/soto-uke.jpeg": {
+      "source": "1ECD7CB9-57B5-4DAE-8D58-F09A3BAE0015.jpeg",
+      "sha256": "f37ff2ba93080042af01b6ee911e5ec29946f6f7c83904fe3be5c040d0e0efdc"
+    },
+    "art/techniques/gedan-barai.jpeg": {
+      "source": "EE51BF1D-6F9C-45BE-8BA0-E982D8E47027.jpeg",
+      "sha256": "a5d54c5a67610172a166a5600b7dd6c36f61f475b3882fc51b9d7adf4c422ed3"
+    },
+    "art/techniques/shuto-uke.jpeg": {
+      "source": "CC293D7E-D93B-4437-8D59-280A8886F8CB.jpeg",
+      "sha256": "25c883bf92c6dea72c3174e3b384b6a5e8e9fa377096e31c8db8d7fb99576f2b"
+    },
+    "art/techniques/mae-geri.jpeg": {
+      "source": "9D3CE8CF-DECC-4C43-A30D-F80909B30680.jpeg",
+      "sha256": "36700045448a5602fdcbdafd5d1d0a23cc741ffee709086016aa9c31dde7dde6"
+    },
+    "art/techniques/yoko-geri.jpeg": {
+      "source": "3EA32D02-F3E2-424E-B3A4-99CC40725E5C.jpeg",
+      "sha256": "81e9781399419c2b07318c7838d01872567c3141e9c793bbbfe20f2da891e6cf"
+    },
+    "art/techniques/mawashi-geri.jpeg": {
+      "source": "68AA7375-2DF1-41D2-B8B7-89EBDEA49AA7.jpeg",
+      "sha256": "40ba062e0fb67104c125418e2eea94207fcdd46c3efa7e908f79b80d5ce1449b"
+    },
+    "art/journey/stop-1.jpeg": {
+      "source": "98F68A08-9D72-4BAB-9699-8BD3A0EA7853(1).jpeg",
+      "sha256": "2ec9e8d3718f6d968a07dd15658f070905f116c2f12fba4135b9fbd15b65b1ac"
+    },
+    "art/journey/stop-2.jpeg": {
+      "source": "9FDC8BC8-0017-433B-9A0F-673186C858EF(1).jpeg",
+      "sha256": "fbaa27ff7ac0eea5f33e77d617cfc7e058b09ca2af9f20c3b2c6fe6df0d8a139"
+    },
+    "art/journey/stop-3.jpeg": {
+      "source": "56F385CD-4D5F-411E-93C1-E35D1592E1A0(1).jpeg",
+      "sha256": "80354f0f5c6827c3bf908b636b88f225d6d05af1dd6fbb3bdbac22f81eceb18b"
+    },
+    "art/journey/stop-4.jpeg": {
+      "source": "10A4D677-783E-496C-AA11-729B2F14107F(1).jpeg",
+      "sha256": "a3f631327260ac9b2fb3c483dd8e2b9ac0c1ee5a714605adf045b1f0bfc274a5"
+    },
+    "art/journey/stop-5.jpeg": {
+      "source": "89F528CB-3BF7-40C5-8B85-090B77EFDB1A.jpeg",
+      "sha256": "388bd1da1895256f0a3a3038a21370a72785d690a53c13b770746cb2d5c432e3"
+    },
+    "art/journey/stop-6.jpeg": {
+      "source": "46D9BE23-1F10-495D-A1CE-F16E7A0466D6.jpeg",
+      "sha256": "9bafd3b6ca19bc6b7af3b1a21ec05365e87ee1746a1f9955016e28138826f972"
+    },
+    "art/emblems/emblem-01.jpeg": {
+      "source": "CECC3011-2FA8-4E1D-BFBC-EF335F80D698.jpeg",
+      "sha256": "40f2bca7d56c985d334f651bb79df780730c1df4765e07da6e8d7470e17848ff"
+    },
+    "art/emblems/emblem-02.jpeg": {
+      "source": "EAA10CB9-B0F5-4854-8451-110A7B6F9C99.jpeg",
+      "sha256": "62784b48b2024ad42c5a5f85190a58d0662c7b9b6a1bfd39c72e57f35f6c8b87"
+    },
+    "art/emblems/emblem-03.jpeg": {
+      "source": "17E19D83-22BD-419E-9835-7A6C804E3D2A.jpeg",
+      "sha256": "71769a347ff33e43febd8aa95013c6d6aa36a88d17f2c94452dfedc34b49cb99"
+    },
+    "art/emblems/emblem-04.jpeg": {
+      "source": "CA43C058-0683-4114-9D2F-FEBFE957D135.jpeg",
+      "sha256": "6c3ced7bfd53c1ac4936ae7d58c7e53db09dc27de068427f22d31a839653a60d"
+    },
+    "art/emblems/emblem-05.jpeg": {
+      "source": "55FB30BC-AFA5-4ABD-9E8D-52954315AE0E.jpeg",
+      "sha256": "b456110a860bd44186ed76be4e28a9037dd653bc16ae1903fc13458878141d8e"
+    },
+    "art/emblems/emblem-06.jpeg": {
+      "source": "AF8D3E4E-38F5-4780-A843-A570A56B2B25.jpeg",
+      "sha256": "60cbfef88c8d535bb4e0a2fc21965bca093aee3c085a363267b110509ce5fa05"
+    },
+    "art/emblems/emblem-07.jpeg": {
+      "source": "849A5FA0-E2A5-438B-B868-D6725A576AD5.jpeg",
+      "sha256": "599b6f860c1675a7a11e386adcad27f5d9ef1f864625392125a558727189b043"
+    },
+    "art/emblems/emblem-08.jpeg": {
+      "source": "75273E10-98EC-47FE-B7EF-517DAD3205B9.jpeg",
+      "sha256": "e3f9926feb8fec8857b4220f71779852c5573b91c4229bc62b2b67893d176cc0"
+    },
+    "art/emblems/emblem-09.jpeg": {
+      "source": "B93D760F-4599-446D-B25B-1A61F3209AD0.jpeg",
+      "sha256": "f4ef1deb7f208dbb20288b98cac9cf929a9f22563a1a2f86eb8077d71fa05190"
+    },
+    "art/emblems/emblem-10.jpeg": {
+      "source": "84409E8B-F860-4E8F-B2AF-A9F92143CBF4.jpeg",
+      "sha256": "182d9401dacd4472a6798bf34235b275e58ae4cb217ee5cdf720e87deb01e778"
+    }
+  },
+  "notes": "Emblems 1\u20137 mapped to current seven milestone thresholds, with emblem 10 reserved for 10K; emblems 8\u20139 preserved for future milestone expansion. No art assigned to unapproved advanced techniques."
+}
